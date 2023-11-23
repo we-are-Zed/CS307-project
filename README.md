@@ -1,2 +1,1 @@
-# CS307-project
-CS307-Project（Bilibilil）
+# SUSTech_CS307_2023F_Project1
